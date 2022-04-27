@@ -4,7 +4,7 @@
 
 The objective of this project is to give the exact amount of payment and allowing a hassle-free, computer-generated payment, updates the customer as well as the admin with all the knowledge like driver details, cost per km. The system lets the driver know the location so that pickups can be easily arranged. It brings simplicity to both drivers and customers as customers can choose to book.
 
-# Technologies Used
+# About Project
   -> Web based application\
   -> Built on Python and MySQL\
   -> Supported OS are Windows 10,8,7(SP1) 64 bit versions\
